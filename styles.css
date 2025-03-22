@@ -100,6 +100,26 @@ header ul a {
     z-index: -1;
 }
 
+.resource_menu {
+    list-style: none;
+    padding: 0;
+    padding-top: 5rem;
+    display: grid;
+    justify-content: center;
+    column-gap: 3rem;
+    font-size: 2rem;
+}
+
+.resource_menu li {
+    grid-row: 1;
+}
+
+#selection_underline {
+    grid-row: 3;
+    background-color: var(--main-text-color);
+    height: 0.15rem;
+}
+
 #resources_list {
     list-style: none;
     padding: 0;
@@ -126,7 +146,6 @@ header ul a {
 #content_list {
     list-style: none;
     padding: 0;
-    padding-top: 5rem;
     padding-bottom: 5rem;
     gap: 4rem;
     display: flex;
