@@ -191,3 +191,12 @@ header ul a {
         transform: translate(0rem) scale(1.0);
     }
 }
+
+#contribution_title {
+    text-align: center;
+    padding-top: 5rem;
+}
+
+#contribution_title a {
+    font-weight: 900;
+}
