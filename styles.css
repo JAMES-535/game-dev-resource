@@ -179,6 +179,7 @@ header ul a {
 
 #demo_list {
     padding: 0;
+    padding-bottom: 5rem;
     list-style: none;
     display: flex;
     flex-direction: column;
@@ -195,10 +196,14 @@ header ul a {
     border-style: solid;
     padding: 2rem;
     border-radius: 2rem;
-    gap: rem;
+    gap: 2rem;
 }
 
 #demo_list img {
+    width: 30rem;
+}
+
+#demo_list video {
     width: 30rem;
 }
 
