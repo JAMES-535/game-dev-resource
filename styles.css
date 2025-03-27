@@ -191,8 +191,6 @@ header ul a {
     margin: 0 auto;
     display: flex;
     width: 60rem;
-    align-content: center;
-    justify-content: space-between;
     border-style: solid;
     padding: 2rem;
     border-radius: 2rem;
@@ -214,6 +212,7 @@ header ul a {
     margin: 0 auto;
     gap: 4rem;
     font-size: 1.5rem;
+    max-width: 20rem;
 }
 
 #demo_list div div {
