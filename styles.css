@@ -261,3 +261,12 @@ header ul a {
 #contribution_title a {
     font-weight: 900;
 }
+
+#contribution_sub {
+    text-align: center;
+    padding-top: 0rem;
+}
+
+#contribution_sub a {
+    font-weight: 900;
+}
