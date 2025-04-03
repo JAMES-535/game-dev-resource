@@ -10,4 +10,4 @@ Please specify:
 - if applicable, what game engine the contribution applies to
 
 **PLEASE NOTE**
-Contributed resources **must** be free to use. Any paywalled resources will not be accepted.
+Contributed resources **must** be free to use/try out. Any paywalled resources will not be accepted.
